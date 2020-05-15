@@ -1,16 +1,14 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+This project was developed through the Udacity - Intro to programming Nanodegree Program.
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+Built with: HTML, CSS and JavaScript.
 
-## Instructions
+# Project description:
 
-To get started, open `designs.js` and start building out the app's functionality.
+Building a single-page web app that allows users to draw pixel art on a customizable canvas.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+# Instructions:
 
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Download or Clone the Repository.
+Open index.html in your browser.
